@@ -2,7 +2,7 @@
 //  iOS_WebGL_SampleTests.m
 //  iOS-WebGL-SampleTests
 //
-//  Created by 照屋直人 on 2014/11/07.
+//  Created by tnaototo on 2014/11/07.
 //  Copyright (c) 2014年 tnaototo. All rights reserved.
 //
 
